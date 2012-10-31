@@ -1,4 +1,4 @@
-PowershellZeroMQ
+PowerShell and ZeroMQ
 ================
 
 Accessing ZeroMQ from Windows PowerShell: 
